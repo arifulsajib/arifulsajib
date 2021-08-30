@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/arifulsajib347" target="blank"><img src="https://img.shields.io/twitter/follow/arifulsajib347?logo=twitter&style=for-the-badge" alt="arifulsajib347" /></a> </p>
 
-- 💬 Ask me about **javascript, react, node**
+- 💬 Ask me about **javascript, ES6, rest API**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
