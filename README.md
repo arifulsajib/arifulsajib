@@ -58,9 +58,6 @@ I'm interested in exploring machine learning methods for extracting meaningful p
 
 **Authors:** **Md Ariful Islam**, Ruiyuan Li, A F M Abdun Noor, Md Imam Ahasan, Md Rakibul Islam, Md Mustafizur Rahman, Swachha Ray.
 
-- Proposes a gated delta-rule encoding approach for efficient vehicle trajectory representation learning.
-- Focuses on capturing meaningful trajectory patterns through efficient sequence modelling.
-
 **Keywords:** Trajectory Representation Learning · Gated Delta Rule · Sequence Modelling
 
 ---
@@ -71,9 +68,6 @@ I'm interested in exploring machine learning methods for extracting meaningful p
 
 **Authors:** Md Mustafizur Rahman, Guangchao Yang, A F M Abdun Noor, Md Imam Ahasan, Md Mahfuzur Rahman, **Md Ariful Islam**.
 
-- Introduces temporal-spatial clique attention for multimodal pedestrian trajectory prediction.
-- Explores interactions and contextual information for trajectory prediction.
-
 **Keywords:** Pedestrian Trajectory Prediction · Attention Mechanism · Multimodal Learning
 
 📄 [arXiv Paper](https://arxiv.org/abs/2607.11939) | 💻 [GitHub Repository](https://github.com/arifulsajib/TSCA-Net)
@@ -81,28 +75,12 @@ I'm interested in exploring machine learning methods for extracting meaningful p
 
 ---
 
-### 3. DAHQFL: Distribution-Aware Hybrid Classical–Quantum Federated Learning for Calibrated Long-Tail Medical Image Classification
 
-<kbd>WWW 2027</kbd> <kbd>Under Review</kbd>
-
-**Authors:** Md. Rakibul Islam, Yunfei Yin, Md Imam Ahasan, Swachha Ray, **MD ARIFUL ISLAM**, Argho Dey, Xianjian Bao.
-
-- Proposes a hybrid classical–quantum federated learning framework for medical image classification under imbalanced data distributions.
-- Focuses on improving prediction confidence calibration through client-specific class weighting and distribution-aware model aggregation.
-
-**Keywords:** Federated Learning · Hybrid Classical–Quantum Learning · Medical Image Classification · Model Calibration
-
----
-
-
-### 4. Transfer Learning-Based COVID-19 Detection Using Chest X-Ray Images with a Pretrained Neural Network and Custom Classifier
+### 3. Transfer Learning-Based COVID-19 Detection Using Chest X-Ray Images with a Pretrained Neural Network and Custom Classifier
 
 <kbd>QPAIN 2025</kbd> <kbd>Published</kbd>
 
 **Authors:** MD Roman Sarkar, MD Rased Hasan, MD Shohel Rana, **MD Ariful Islam**, MD Mushfiqur Rahman Neidhe.
-
-- Applies transfer learning and a custom classifier to COVID-19 detection using chest X-ray images.
-- Explores pretrained neural networks for medical image classification.
 
 **Keywords:** Transfer Learning · Medical Image Analysis · Deep Learning
 
@@ -110,6 +88,17 @@ I'm interested in exploring machine learning methods for extracting meaningful p
 
 
 ---
+
+### 4. DAHQFL: Distribution-Aware Hybrid Classical–Quantum Federated Learning for Calibrated Long-Tail Medical Image Classification
+
+<kbd>WWW 2027</kbd> <kbd>Under Review</kbd>
+
+**Authors:** Md. Rakibul Islam, Yunfei Yin, Md Imam Ahasan, Swachha Ray, **MD ARIFUL ISLAM**, Argho Dey, Xianjian Bao.
+
+**Keywords:** Federated Learning · Hybrid Classical–Quantum Learning · Medical Image Classification · Model Calibration
+
+---
+
 
 ## 🛠️ Technical Skills
 
