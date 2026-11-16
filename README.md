@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Md Ariful Islam (Sajib)</h1>
 
 <h3 align="center">
-  Computer Science Researcher | Artificial Intelligence | Machine Learning | Data Science
+  Software Engineer || Researcher || Data Science || Trajectory Learning
 </h3>
 
 <p align="center">
