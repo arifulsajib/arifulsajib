@@ -49,18 +49,21 @@ I'm interested in exploring machine learning methods for extracting meaningful p
 
 ---
 
+
 ## 📚 Research Publications
 
 ### 1. DeltaPath: Gated Delta-Rule Encoding for Efficient Vehicle Trajectory Representation Learning
 
 <kbd>ICASSP 2027</kbd> <kbd>Under Review</kbd>
 
-**Authors:** Md Ariful Islam, Ruiyuan Li, A F M Abdun Noor, Md Imam Ahasan, Md Rakibul Islam, Md Mustafizur Rahman, Swachha Ray.
+**Authors:** **Md Ariful Islam**, Ruiyuan Li, A F M Abdun Noor, Md Imam Ahasan, Md Rakibul Islam, Md Mustafizur Rahman, Swachha Ray.
 
 - Proposes a gated delta-rule encoding approach for efficient vehicle trajectory representation learning.
-- Focuses on capturing meaningful trajectory patterns with efficient sequence modelling.
+- Focuses on capturing meaningful trajectory patterns through efficient sequence modelling.
 
 **Keywords:** Trajectory Representation Learning · Gated Delta Rule · Sequence Modelling
+
+---
 
 ### 2. TSCA-Net: Temporal-Spatial Clique Attention for Multimodal Pedestrian Trajectory Prediction
 
@@ -69,11 +72,13 @@ I'm interested in exploring machine learning methods for extracting meaningful p
 **Authors:** Md Mustafizur Rahman, Guangchao Yang, A F M Abdun Noor, Md Imam Ahasan, Md Mahfuzur Rahman, **Md Ariful Islam**.
 
 - Introduces temporal-spatial clique attention for multimodal pedestrian trajectory prediction.
-- Explores interactions and contextual information for more effective trajectory prediction.
+- Explores interactions and contextual information for trajectory prediction.
 
 **Keywords:** Pedestrian Trajectory Prediction · Attention Mechanism · Multimodal Learning
 
 📄 [arXiv Paper](https://arxiv.org/abs/2607.11939) | 💻 [GitHub Repository](https://github.com/arifulsajib/TSCA-Net)
+
+---
 
 ### 3. Transfer Learning-Based COVID-19 Detection Using Chest X-Ray Images with a Pretrained Neural Network and Custom Classifier
 
@@ -81,12 +86,13 @@ I'm interested in exploring machine learning methods for extracting meaningful p
 
 **Authors:** MD Roman Sarkar, MD Rased Hasan, MD Shohel Rana, **MD Ariful Islam**, MD Mushfiqur Rahman Neidhe.
 
-- Explores transfer learning and a custom classifier for COVID-19 detection from chest X-ray images.
-- Applies pretrained neural networks to medical image classification.
+- Applies transfer learning and a custom classifier to COVID-19 detection using chest X-ray images.
+- Explores pretrained neural networks for medical image classification.
 
 **Keywords:** Transfer Learning · Medical Image Analysis · Deep Learning
 
 📄 [Read Paper (DOI)](https://doi.org/10.1109/QPAIN66474.2025.11172261)
+
 
 ---
 
