@@ -78,9 +78,24 @@ I'm interested in exploring machine learning methods for extracting meaningful p
 
 📄 [arXiv Paper](https://arxiv.org/abs/2607.11939) | 💻 [GitHub Repository](https://github.com/arifulsajib/TSCA-Net)
 
+
 ---
 
-### 3. Transfer Learning-Based COVID-19 Detection Using Chest X-Ray Images with a Pretrained Neural Network and Custom Classifier
+### 3. DAHQFL: Distribution-Aware Hybrid Classical–Quantum Federated Learning for Calibrated Long-Tail Medical Image Classification
+
+<kbd>WWW 2027</kbd> <kbd>Under Review</kbd>
+
+**Authors:** Md. Rakibul Islam, Yunfei Yin, Md Imam Ahasan, Swachha Ray, **MD ARIFUL ISLAM**, Argho Dey, Xianjian Bao.
+
+- Proposes a hybrid classical–quantum federated learning framework for medical image classification under imbalanced data distributions.
+- Focuses on improving prediction confidence calibration through client-specific class weighting and distribution-aware model aggregation.
+
+**Keywords:** Federated Learning · Hybrid Classical–Quantum Learning · Medical Image Classification · Model Calibration
+
+---
+
+
+### 4. Transfer Learning-Based COVID-19 Detection Using Chest X-Ray Images with a Pretrained Neural Network and Custom Classifier
 
 <kbd>QPAIN 2025</kbd> <kbd>Published</kbd>
 
