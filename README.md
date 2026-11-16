@@ -73,7 +73,7 @@ I'm interested in exploring machine learning methods for extracting meaningful p
 
 **Keywords:** Pedestrian Trajectory Prediction · Attention Mechanism · Multimodal Learning
 
-📄 [arXiv Paper](https://arxiv.org/abs/2607.11939) | 💻 [GitHub Repository](https://github.com/imamahasane/TSCA-Net)
+📄 [arXiv Paper](https://arxiv.org/abs/2607.11939) | 💻 [GitHub Repository](https://github.com/arifulsajib/TSCA-Net)
 
 ### 3. Transfer Learning-Based COVID-19 Detection Using Chest X-Ray Images with a Pretrained Neural Network and Custom Classifier
 
@@ -92,85 +92,46 @@ I'm interested in exploring machine learning methods for extracting meaningful p
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-</p>
+**Programming Languages**
+- Python · Java · JavaScript · TypeScript
 
-### Scientific Computing & Data Analysis
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-</p>
+**Scientific Computing & Data Analysis**
+- NumPy · Pandas
 
-### Machine Learning & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-</p>
+**Machine Learning & Deep Learning**
+- PyTorch · Representation Learning · Deep Learning · Sequence Modelling
 
-### Web Development
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
+**Web Development**
+- React · Node.js · Express.js · MongoDB · Redux · Tailwind CSS
+- Familiar with: Next.js · Stripe
 
-### Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-</p>
-
-**Also familiar with:** Next.js, Stripe.
+**Research & Development Tools**
+- Git · GitHub · Jupyter Notebook · LaTeX
 
 ---
 
 ## 🌐 Academic & Professional Profiles
 
-<p align="left">
-  <a href="https://arifulsajib.github.io/">
-    <img src="https://img.shields.io/badge/Personal_Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=dMDrI3IAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
-  </a>
-  <a href="https://www.researchgate.net/profile/Md-Ariful-Islam-106">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
-  </a>
-  <a href="https://orcid.org/0009-0004-5932-0380">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-  </a>
-  <a href="https://openreview.net/profile?id=~MD_ARIFUL_ISLAM1">
-    <img src="https://img.shields.io/badge/OpenReview-8A2BE2?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/arifulsajib/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/arifulsajib">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+| Platform | Profile |
+|:---|:---|
+| 🌐 Personal Website | [arifulsajib.github.io](https://arifulsajib.github.io/) |
+| 🎓 Google Scholar | [View Profile](https://scholar.google.com/citations?user=dMDrI3IAAAAJ&hl=en) |
+| 📄 OpenReview | [View Profile](https://openreview.net/profile?id=~MD_ARIFUL_ISLAM1) |
+| 🔬 ResearchGate | [View Profile](https://www.researchgate.net/profile/Md-Ariful-Islam-106) |
+| 🆔 ORCID | [0009-0004-5932-0380](https://orcid.org/0009-0004-5932-0380) |
+| 💼 LinkedIn | [Md Ariful Islam](https://www.linkedin.com/in/arifulsajib/) |
+| 💻 GitHub | [@arifulsajib](https://github.com/arifulsajib) |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arifulsajib&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifulsajib&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=arifulsajib&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arifulsajib&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <i>Exploring ideas, learning continuously, and building intelligent solutions.</i>
 </p>
 
 ---
